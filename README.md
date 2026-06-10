@@ -4,7 +4,7 @@
 
 ## Technology Professional | Aspiring Software Developer
 
-I am a technology professional with 23 years of military experience in telecommunications, technical operations, leadership, and human resources. I am currently pursuing a degree in Computer Programming and expanding my knowledge in software development, databases, and information technology.
+I am a technology professional with 21 years of military experience in telecommunications, technical operations, leadership, and human resources. I am currently pursuing a degree in Computer Programming and expanding my knowledge in software development, databases, and information technology.
 
 ## Technical Skills
 
