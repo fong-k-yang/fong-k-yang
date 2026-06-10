@@ -1,5 +1,3 @@
-</> Markdown
-
 ![Fong Yang GitHub Banner](Banner)
 
 # Fong Yang
