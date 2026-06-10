@@ -1,16 +1,27 @@
-## Hi there 👋
+Fong Yang
+Technology Professional | Aspiring Software Developer
 
-<!--
-**fong-k-yang/fong-k-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a technology professional with 23 years of military experience in telecommunications, technical operations, leadership, and human resources. I am currently pursuing a degree in Computer Programming and expanding my knowledge in software development, databases, and information technology.
 
-Here are some ideas to get you started:
+Technical Skills
+Python Programming
+SQL and Database Development
+Telecommunications Systems
+Technical Troubleshooting
+Leadership and Team Development
+Current Learning
+Software Development Principles
+Database Design
+Web Development
+Cloud Technologies
+Professional Goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am building a portfolio that combines my military technical background with my education in computer programming. My goal is to develop reliable, practical technology solutions while continuing to grow as a software developer.
+
+Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/fong-k-yang
+
+Email:
+fong.k.yang@gmail.com
