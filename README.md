@@ -1,6 +1,6 @@
 </> Markdown
 
-![Fong Yang GitHub Banner](Banner.png)
+(Banner.png)
 
 Fong Yang
 Technology Professional | Aspiring Software Developer
