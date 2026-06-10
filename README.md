@@ -1,5 +1,4 @@
-Markdown
-![Fong Yang GitHub Banner](ChatGPT Image Jun 10, 2026, 05_20_58 PM)
+![Fong Yang GitHub Banner](ChatGPT Image Jun 10, 2026, 05_20_58 PM.png)
 
 Fong Yang
 Technology Professional | Aspiring Software Developer
